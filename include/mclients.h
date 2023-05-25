@@ -135,5 +135,14 @@ void modify(liste *l, int Id_client_n)
 
         printf("Client avec l'identifiant : %d n'est pas trouvé\n", Id_client_n);
     }
-    void(supprimer)
+    void deleteSpecific(liste * l, int Id_client_n)
+    {
+        int choix;
+        if (l->first == NULL)
+            printf("Pas de comptes disponibles");
+        else
+        {
+            client_data *ptr = l->first;
+            while (ptr->next != NULL)
+        }
 #endif
