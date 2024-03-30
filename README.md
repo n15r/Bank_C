@@ -8,7 +8,7 @@ account management: you can create, delete, and change customer accounts.
     security measures: added some basic security features to keep the financial data safe.
 ## Installation
 ### For Windows:
-You can [Download](https://github.com/nashunch0/Bank-Management-C-/archive/refs/heads/master.zip) the project and run the run.exe executable
+You can [Download](https://github.com/nashunch0/Bank-Management-C-/archive/refs/heads/master.zip) the project and run the main.exe executable
 ### For Linux
  clone the repository:
  ####
