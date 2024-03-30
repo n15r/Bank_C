@@ -1,6 +1,6 @@
 ![preview](https://github.com/nashunch0/Bank-Management-C-/blob/master/.vscode/preview.png?raw=true)
 
-  Bank management project in C with basic interactive console ui, nothing fancy.
+  Bank management project in C with basic interactive console ui.
 ## Features
 account management: you can create, delete, and change customer accounts.
     transaction processing: you can deposit, withdraw, and transfer money between accounts.
