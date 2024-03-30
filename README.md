@@ -1,4 +1,4 @@
-
+![preview](https://github.com/nashunch0/Bank-Management-C-/blob/master/.vscode/preview.png?raw=true)
 
   Bank management project in C with basic interactive console ui, nothing fancy.
 ## Features
