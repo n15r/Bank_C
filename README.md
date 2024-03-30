@@ -1,4 +1,4 @@
-      Bank management project in C with basic interactive console ui.
+Bank management project in C with basic interactive console ui.
 ## Features
 account management: you can create, delete, and change customer accounts.
     transaction processing: you can deposit, withdraw, and transfer money between accounts.
