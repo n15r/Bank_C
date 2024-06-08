@@ -10,7 +10,7 @@
 
 ## Interface
 
- ![preview](https://github.com/nashunch0/Bank-Management-C-/blob/master/vscode/pview.png?raw=true)
+ ![preview](https://github.com/n15r/Bank_C/blob/master/vscode/pview.png?raw=true)
 
 
 
@@ -18,15 +18,15 @@
    
 ## Installation
 ### For Windows:
-You can [Download](https://github.com/nashunch0/Bank-Management-C-/archive/refs/heads/master.zip) the project and run the main.exe executable
+You can [Download](https://github.com/n15r/Bank_C/archive/refs/heads/master.zip) the project and run the main.exe executable
 ### For Linux
  clone the repository:
  ####
-    git clone https://github.com/nashunch0/Bank-Management-C-.git
+    git clone https://github.com/n15r/Bank_C.git
    
    Navigate to the project directory: 
  ###
-     cd Bank-Management-C-
+     cd Bank_C
    Compile the source code: 
    ###
      gcc main.c -o bank_management_system
